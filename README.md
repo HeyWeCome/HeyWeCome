@@ -4,7 +4,7 @@
 
 我是一名软件工程师，主要的语言是Java，正在攻读计算机的研究生。
 
-<img src="https://pic2.zhimg.com/50/v2-cf660cfc2550a4a6e3c44dfa86ac16d2_hd.webp?source=1940ef5c" alt="图片" style="margin:0 auto;text-align:center;zoom: 150%;" />
+<img src="https://pic2.zhimg.com/50/v2-cf660cfc2550a4a6e3c44dfa86ac16d2_hd.webp?source=1940ef5c" alt="图片" style=" display:block; margin:0 auto; zoom: 150%;" />
 
 <!--
 **HeyWeCome/HeyWeCome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
