@@ -4,8 +4,6 @@
 
 我是一名软件工程师，主要的语言是Java，正在攻读计算机的研究生。喜欢用编程来解决生活中的问题，希望自己也可以创造出有价值的事物。
 
-<center><img src="https://pic2.zhimg.com/50/v2-cf660cfc2550a4a6e3c44dfa86ac16d2_hd.webp?source=1940ef5c" alt="图片"/></center>
-
 <!--
 **HeyWeCome/HeyWeCome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +20,8 @@ Here are some ideas to get you started:
 - 📫 希望有一天可以让你搜索到我
 - 😄 希望世界和平，每一个人都平安喜乐
 
+## 座右铭✍🏾 :
+
+> 矮人看戏何曾见，都是随人说短长。
+>
+> 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。 
