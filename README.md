@@ -2,7 +2,9 @@
 
 个人简介：软件工程师。
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=heywecome&theme= dracula &show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=heywecome&theme= dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heywecome&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 座右铭✍🏾 :
