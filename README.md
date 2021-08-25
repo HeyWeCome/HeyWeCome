@@ -1,6 +1,6 @@
 ### 🌎初次见面，请多关照！👋
 
-个人简介：一个写前端的，写过几年后端。
+个人简介：软件工程师。
 ~~~markdown
 data segment;
     string db 'Hello,World!$'
