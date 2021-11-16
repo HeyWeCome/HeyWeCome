@@ -2,10 +2,11 @@
 # Hey there! 👋 😁
 
 <!--Introduction -->
-I'm HeyWeCome! I'm a **Java Developer** from China 🇨🇳
+I'm HeyWeCome! I'm a **Java Developer** from China 🇨🇳. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄. If you have any questions, email me please ✉️.
 <br>
 <div>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+<br/>
 
 <!-- Your badges -->
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
@@ -75,9 +76,13 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a></code>
 <br>
 <!-- User Interface Desinging -->
-<code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png" alt="Inkscape"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator"></a></code>
-<code><a href = "adobe.com/in/products/xd.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/768px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"></a></code>
 </p>
 
-<h4 align="center"> Thanks for Visiting! 😝</h4>
+<h4 align="center"> Thanks for Visiting! 😝 </h4>
+
+### My Social Media
+<!-- BiliBili和CSDN数据 -->
+<div align="center">
+  <a href="https://space.bilibili.com/90394491/"><img src="https://stats.justsong.cn/api/bilibili/?id=90394491"/></a>
+  <a href="https://blog.csdn.net/heywecome"><img src="https://stats.justsong.cn/api/csdn?id=heywecome"/></a>
+</div>
