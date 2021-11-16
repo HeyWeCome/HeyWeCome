@@ -4,7 +4,7 @@
 <!--Introduction -->
 I'm HeyWeCome! I'm a **Java Developer** from China 🇨🇳. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄. If you have any questions, email me please ✉️.
 <br>
-<div>
+<div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 <br/>
 <br/>
@@ -21,7 +21,9 @@ I'm HeyWeCome! I'm a **Java Developer** from China 🇨🇳. Do 🌟 my reposito
 <!-- Profile View Count and GitStats -->
 
 <!-- gif Image -->
-<img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div>
+        <img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+</div>
 </div>
 
 <!-- current status -->
