@@ -43,11 +43,11 @@ Due to the impact of the COVID-19 😷 I’m having lots of spare time 🕑, I d
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
-    <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
+  <a href="https://gitstats.me/HeyWeCome">
+    <img width="460" height="auto" align="right" alt="HeyWeCome's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=heywecome&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=heywecome&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
@@ -82,7 +82,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 <h4 align="center"> Thanks for Visiting! 😝 </h4>
 
-### My Social Media
+### My Social Media: <img src="https://media2.giphy.com/media/WsWuvZCICpsXPoYOM2/giphy.gif?cid=ecf05e47z29tgsihug8fvw4me3scjmgebz1qe04d92rl55a9&rid=giphy.gif&ct=g" width="30">
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
   <a href="https://space.bilibili.com/90394491/"><img src="https://stats.justsong.cn/api/bilibili/?id=90394491"/></a>
