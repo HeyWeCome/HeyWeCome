@@ -7,6 +7,7 @@ I'm HeyWeCome! I'm a **Java Developer** from China 🇨🇳. Do 🌟 my reposito
 <div>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 <br/>
+<br/>
 
 <!-- Your badges -->
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
@@ -36,8 +37,9 @@ Due to the impact of the COVID-19 😷 I’m having lots of spare time 🕑, I d
 * Read 📚: read books daily
 * Avoid spending too much time on BiliBili 🎦
 * 🔜
-
-![Metrics](https://metrics.lecoq.io/heywecome?template=classic&config.timezone=Asia%2FShanghai)
+<div align="center">
+    <img src="https://metrics.lecoq.io/heywecome?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
