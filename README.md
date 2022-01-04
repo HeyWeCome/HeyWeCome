@@ -2,7 +2,7 @@
 # Hey there! 👋 😁
 
 <!--Introduction -->
-I'm HeyWeCome! I'm a **Software Engineer** from China 🇨🇳. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄. If you have any questions, email me please ✉️. 
+I'm HeyWeCome! I'm a **Software Engineer** from China 🇨🇳. If you have any questions, email me please ✉️. 
 <br>
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
